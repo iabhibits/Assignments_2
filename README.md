@@ -1,4 +1,4 @@
-# IISc NLU course Assignment 2 : NMT ( Seq2Seq Model with attention )
+# IISc NLU course Assignment 2
 
 # Seq2Seq Model with Attention for Machine Translation.
 
