@@ -86,5 +86,5 @@
     
 **References:**
 
-    The starter kit for project is taken from Stanford CS224N (http://web.stanford.edu/class/cs224n/)
+    The Basic starter code used in this project is taken from Stanford CS224N (http://web.stanford.edu/class/cs224n/)
 
